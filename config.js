@@ -20,7 +20,7 @@ global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c7
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = ['BrunoSobrino']
+global.lolkeysapi = ['CONFRONTER']
 
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -51,12 +51,6 @@ global.botname = 'CONFRONTER'
 global.premium = 'true'
 global.packname = 'CONFRONTER☘️' 
 global.author = 'CONFRONTER' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/confronter._\n' 
-global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
-global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
-global.fgyt = 'https://youtube.com/@comedymelodych8468'
-global.fgpyp = 'https://youtube.com/@comedymelodych8468'
-global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png' 
 
 //imagen
 global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
